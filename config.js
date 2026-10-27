@@ -2,7 +2,7 @@
 // Pega aquí la URL de tu Web App de Google Apps Script (ver README.md, paso 2).
 // Ejemplo: "https://script.google.com/macros/s/AKfycb.../exec"
 window.XPRT_CONFIG = {
-  REGISTRO_ENDPOINT: "",
+  REGISTRO_ENDPOINT: "https://script.google.com/macros/s/AKfycby4FQSFEHYTInOKWJME03bgsW4mo9r4TNDrSiKGkt325KayNZ7ErlNLQTn14yAHDZpB/exec",
   // Usuario de Instagram al que invita la página unete.html (sin @)
   INSTAGRAM_USER: "xprt.group"
 };
